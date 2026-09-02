@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (2f549c368872cecc)
+project:
+  name: rust-indexer-pro-vpc0
+  tag: 2f549c368872cecc
+  env: production
+cfg_matrixxvaybs:
+  enabled: true
+  workers: 4
+cfg_cipher2dndc8:
+  timeout_sec: 25
+  retry: 3
+cfg_fluxluzwz2:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
